@@ -5,6 +5,15 @@ while True:
         break
 
 '''
+number = float(input())
+
+while number < 1 or number > 100:
+    number = float(input())
+    
+print(f"The number {current_number} is between 1 and 100")
+'''
+        
+'''
 current_number = float(input())
 number_is_in_range = False
 while not number_is_in_range:
