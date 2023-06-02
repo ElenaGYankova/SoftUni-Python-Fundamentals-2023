@@ -84,6 +84,7 @@ else:
     print("Draw!")
 '''
 
+
 #####   Task Description   ##### 5. Tic-Tac-Toe
 # You will receive a field of a tic-tac-toe game in three lines containing numbers, separated by a single space.
 # Legend:
