@@ -6,4 +6,5 @@ for num in numbers_as_str:
 
 print(numbers)
 
+
 # print([abs(float(num)) for num in input().split()])
