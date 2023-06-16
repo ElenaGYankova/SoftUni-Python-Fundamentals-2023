@@ -14,6 +14,7 @@ print(f"Max Bonus: {round(total_bonus)}.")
 print(f"The student has attended {max_num} lectures.")
 
 
+
 # import math
 # number_students = int(input())
 # number_lecturers = int(input())
